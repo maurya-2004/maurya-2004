@@ -15,6 +15,6 @@
 - 🍳 [Kitchen Blueprint](https://github.com/maurya-2004/kitchen-blueprint) – A recipe generator using Spoonacular API
 
 📫 Let's Connect:
-- 🔗 [Portfolio](#) (Coming Soon)
+- 🔗 [Portfolio](#) (https://my-portfolio-one-theta-52.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/maurya-patel-2b1418270/)
 - 📧 Email: mauryapat2004@gmail.com
