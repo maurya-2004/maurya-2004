@@ -10,9 +10,9 @@
 - **Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify
 
 📌 Recent Projects:
-- 🌐 [Global Cart](https://github.com/maurya-2004/global-cart) – A full-featured e-commerce website
-- ✅ [Task Organizer](https://github.com/maurya-2004/task-organizer) – A modern task management app
-- 🍳 [Kitchen Blueprint](https://github.com/maurya-2004/kitchen-blueprint) – A recipe generator using Spoonacular API
+- 🌐 [Global Cart]((https://github.com/maurya-2004/GlobalCart)) – A full-featured e-commerce website
+- ✅ [Task Organizer](https://github.com/maurya-2004/Task-Organizer) – A modern task management app
+- 🍳 [Kitchen Blueprint](https://github.com/maurya-2004/Kitchen-Blueprint) – A recipe generator using Spoonacular API
 
 📫 Let's Connect:
 - 🔗 [Portfolio](https://my-portfolio-one-theta-52.vercel.app/)
